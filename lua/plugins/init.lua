@@ -1,0 +1,16 @@
+return {
+  { import = "plugins.themes" },
+  { import = "plugins.notify" },
+  { import = "plugins.noice" },
+  { import = "plugins.treesitter" },
+  { import = "plugins.nvimtree" },
+  { import = "plugins.lualine" },
+  { import = "plugins.lsp" },
+  { import = "plugins.conform" },
+  { import = "plugins.autopairs" },
+  { import = "plugins.telescope" },
+  { import = "plugins.comment" },
+  { import = "plugins.which-key" },
+  { import = "plugins.rainbow" },
+  { import = "plugins.indent" },
+}

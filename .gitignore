@@ -1,0 +1,7 @@
+*.bak
+*.save
+*.swp
+*.swo
+*~
+.Session.vim
+.nvimlog
